@@ -64,7 +64,5 @@ end
      return true if source_array
      i += 1 
    end 
-   if 
-    return false 
-  end 
+    return false
 end 
